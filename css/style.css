@@ -14,10 +14,13 @@ body {
   font-weight: weight;
   font-style: normal;
   background: skyblue;
-  margin-left: 20%;
+  margin: 2rem;
+
 }
 
-.JS {
-  margin-top: 3rem;
+.Calculate {
   width: 30%;
+  text-align: center;
+  margin-top: 5vw;
+  margin-left: 36vw;
 }
